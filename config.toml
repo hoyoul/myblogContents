@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+title = "My New Hugo Site"
+theme = "ga-hugo-theme"
+languageCode = "ko-kr"
+defaultContentLanguage = "en-us"
